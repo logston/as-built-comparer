@@ -1,9 +1,10 @@
 # As-Built Comparer
 
 This program ingests a directory of PDFs that each contain
-a single landscape-oriented as-built. It compares each as
-build to all other as-builts and exports a list of each
-pair of PDFs along with a similarity score between them.
+a single landscape-oriented as-built. It compares each as-built
+to all other as-builts and exports a list of each
+pair of PDF names along with a similarity score between them.
+The higher the score, the more similar the as-builts.
 
 ## Installation
 
